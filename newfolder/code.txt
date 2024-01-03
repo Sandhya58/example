@@ -1,4 +1,0 @@
-SELECT *
-FROM test.ama
-WHERE issn BETWEEN 'issn-bfgh' AND 'btn57'
-  AND magazine BETWEEN 'country' AND 'state';
